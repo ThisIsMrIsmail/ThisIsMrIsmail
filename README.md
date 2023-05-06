@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ThisIsMrIsmail</h1>
+<h1 align="center">Hello Real World 👋, ThisIsMrIsmail</h1>
 <h3 align="center">Computer Science Student @Hurghada-FCAI | Web Dev & ML passionate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismrismail&label=Profile%20views&color=0e75b6&style=flat" alt="thisismrismail" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ICool Challenge**
 
-- 💬 Ask me about **PHP, MySQL, NodeJS, ExpressJS, JavaScript**
+- 💬 Ask me about **Python, PHP, MySQL, NodeJS, ExpressJS, JavaScript**
 
 - 📫 How to reach me **ismailsherifwork@gmail.com**
 
