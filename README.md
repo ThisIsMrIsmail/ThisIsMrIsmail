@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismrismail&label=Profile%20views&color=0e75b6&style=flat" alt="thisismrismail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisismrismail" alt="thisismrismail" /></a> </p>
-
 - 🔭 I’m currently working on [Trible T academy Web App](http://tribletacademy.rf.gd/)
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **ICool Challenge**
+- 👯 I’m looking to collaborate on **Google Developer Student Clubs**
 
 - 💬 Ask me about **Python, PHP, MySQL, NodeJS, ExpressJS, JavaScript**
 
@@ -21,11 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisismrismail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisismrismail" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thisismrismail" height="30" width="40" /></a>
 <a href="https://kaggle.com/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thisismrismail" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thisismrismail" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/isma3il" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thisismrismail" height="30" width="40" /></a>
 <a href="https://discord.gg/thisismrismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thisismrismail" height="30" width="40" /></a>
 </p>
 
