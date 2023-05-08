@@ -19,7 +19,7 @@
 
   ⚡ Fun fact **I code without Vim.**
 
-  <hr>
+  <hr style="height: 1px">
   
   <h3>Connect with me:</h3>
   <p align="center">
@@ -31,7 +31,7 @@
     <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/isma3il"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="40" width="40" /></a>
   </p>
 
-  <hr>
+  <hr style="height: 1px">
   
   <h3>Languages and Tools:</h3>
   <p>
@@ -48,12 +48,12 @@
     <a target="_blank" rel="noreferrer" href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   </p>
 
-  <hr>
+  <hr style="height: 1px">
   
   <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </p> </a>
+  <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter&style=" alt="ThisIsMrIsmail"> </p> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </p> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail" alt="ThisIsMrIsmail"> </p> </a>
+  <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </p> </a>
 
 </div>
