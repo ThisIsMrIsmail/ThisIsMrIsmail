@@ -51,5 +51,7 @@
   <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </p>
   <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </p>
   
-  <!-- [![ThisIsMrIsmail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail)](https://github.com/ThisIsMrIsmail) -->
+  [![ThisIsMrIsmail's wakatime stats](https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter)](https://github.com/ThisIsMrIsmail/newsletter)
+  
+<!--   [![ThisIsMrIsmail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail)](https://github.com/ThisIsMrIsmail) -->
 </div>
