@@ -46,12 +46,10 @@
 
   <hr height="7" width="600">  
 
-  <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p>
-  <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </p>
-  <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </p>
-  <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </p>
-  
-  <code width="500"> [![ThisIsMrIsmail' Newsletter](https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter)](https://github.com/ThisIsMrIsmail/newsletter) </code>
-  
-<!--   [![ThisIsMrIsmail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail)](https://github.com/ThisIsMrIsmail) -->
+  <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
+  <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </a>
+  <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </a>
+  <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </a>
+  <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </a>
+
 </div>
