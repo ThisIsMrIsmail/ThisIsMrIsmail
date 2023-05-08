@@ -1,26 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ThisIsMrIsmail</title>
-  <style>
-    @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap');
-    * {
-      font-family: 'SF Pro Display', sans-serif;
-      font-weight: 600;
-    }
-    h1 {
-      font-family: 'Playfair Display', serif;
-      font-weight: 600;
-    }
-  </style>
-</head>
-<body>
-  
 <div align="center">
 
   <h1>Hello Real World, ThisIsMrIsmail</h1>
@@ -70,13 +48,8 @@
   <hr height="7" width="600">  
 
   <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
-  <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </a>
 
 </div>
-
-  
-</body>
-</html>
