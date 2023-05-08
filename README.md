@@ -1,5 +1,11 @@
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ThisIsMrIsmail</title>
   <style>
     @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap');
@@ -13,7 +19,8 @@
     }
   </style>
 </head>
-
+<body>
+  
 <div align="center">
 
   <h1>Hello Real World, ThisIsMrIsmail</h1>
@@ -31,7 +38,7 @@
 
   ⚡ Fun fact **I code without Vim.**
 
-  <hr height="5" width="550">  
+  <hr height="5" width="600">  
 
   <h3>Connect with me:</h3>
   <p align="center">
@@ -43,7 +50,7 @@
     <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/isma3il"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="40" width="40" /></a>
   </p>
 
-  <hr height="5" width="550">
+  <hr height="5" width="600">
   
   <h3>Languages and Tools:</h3>
   <p >
@@ -60,7 +67,7 @@
     <a target="_blank" rel="noreferrer" href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   </p>
 
-  <hr height="7" width="550">  
+  <hr height="7" width="600">  
 
   <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p>
   <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </p>
@@ -69,3 +76,7 @@
   
   <!-- [![ThisIsMrIsmail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail)](https://github.com/ThisIsMrIsmail) -->
 </div>
+
+  
+</body>
+</html>
