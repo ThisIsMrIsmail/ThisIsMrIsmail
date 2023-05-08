@@ -31,9 +31,7 @@
 
   ⚡ Fun fact **I code without Vim.**
 
-<!--   <hr height="5" width="550"> -->
-  <hr>
-  
+  <hr height="5" width="550">  
 
   <h3>Connect with me:</h3>
   <p align="center">
@@ -45,9 +43,8 @@
     <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/isma3il"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="40" width="40" /></a>
   </p>
 
-<!--   <hr height="5" width="550"> -->
-  <hr>
-
+  <hr height="5" width="550">
+  
   <h3>Languages and Tools:</h3>
   <p >
     <a target="_blank" rel="noreferrer" href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
@@ -63,9 +60,7 @@
     <a target="_blank" rel="noreferrer" href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   </p>
 
-<!--   <hr height="7" width="550"> -->
-  <hr>
-  
+  <hr height="7" width="550">  
 
   <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p>
   <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </p>
