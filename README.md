@@ -43,7 +43,7 @@
     <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/isma3il"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="40" width="40" /></a>
   </p>
 
-  <hr height="3" width="550">
+  <hr height="5" width="550">
 
   <h3>Languages and Tools:</h3>
   <p >
