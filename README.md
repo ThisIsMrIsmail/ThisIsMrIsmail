@@ -1,4 +1,4 @@
-<h1 align="center">Hello Real World 👋, ThisIsMrIsmail</h1>
+<h1 align="center">Hello Real World, ThisIsMrIsmail</h1>
 <h3 align="center">Computer Science Student @Hurghada-FCAI | Web Dev & ML passionate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismrismail&label=Profile%20views&color=0e75b6&style=flat" alt="thisismrismail" /> </p>
@@ -32,5 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismrismail&show_icons=true&locale=en&layout=compact" alt="thisismrismail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismrismail&show_icons=true&locale=en" alt="thisismrismail" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisismrismail&" alt="thisismrismail" /></p>
