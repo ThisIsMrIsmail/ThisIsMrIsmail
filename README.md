@@ -53,6 +53,6 @@
 <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter" alt="ThisIsMrIsmail"> </p> </a>
 <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </p> </a>
 <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact" alt="ThisIsMrIsmail"> </p> </a>
-<a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThisIsMrIsmail" alt="ThisIsMrIsmail"> </p> </a>
+<a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail" alt="ThisIsMrIsmail"> </p> </a>
 
 </div>
