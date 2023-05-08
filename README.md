@@ -2,7 +2,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<div align="left">
+<div align="center">
 
   <h1>Hello Real World, ThisIsMrIsmail</h1>
   <h3>CS student @Hurghada-FCAI | Web Dev & ML passionate</h3>
