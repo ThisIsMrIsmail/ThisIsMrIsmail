@@ -17,7 +17,7 @@
 
   📫 How to reach me **ismailsherifwork@gmail.com**
 
-  ⚡ Fun fact **I code without Vim.**
+  ⚡ Fun fact **I code Fast (without Vim) and I type at avg 90WPM [MonkeyType](https://monkeytype.com/profile/ThisIsMrIsmail)**
 
   <hr style="height: 1px">
   
