@@ -24,7 +24,7 @@
   <h3>Connect with me:</h3>
   <p align="center">
     <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/ThisIsMrIsmail"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
-    <a target="_blank" rel="noreferrer" href="https://www.youtube.com/c/ThisIsMrIsmail"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
+    <a target="_blank" rel="noreferrer" href="https://www.youtube.com/@ThisIsMrIsmail"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
     <a target="_blank" rel="noreferrer" href="https://discord.gg/ThisIsMrIsmail"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
     <a target="_blank" rel="noreferrer" href="https://twitter.com/ThisIsMrIsmail" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
     <a target="_blank" rel="noreferrer" href="https://kaggle.com/ThisIsMrIsmail" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
