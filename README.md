@@ -9,7 +9,7 @@
   
   <p> <img src="https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20views&color=394867&style=flat" alt="ThisIsMrIsmail"> </p>
 
-  🔭 I’m currently working on [Trible T academy Web App](http://tribletacademy.rf.gd/)
+  🔭 I’m currently working on [Triple T academy Web App](http://tribletacademy.rf.gd/)
 
   🌱 I’m currently learning **Web Development**
 
