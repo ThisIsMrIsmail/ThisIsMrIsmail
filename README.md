@@ -34,8 +34,8 @@
   <hr style="height: 1px">
   
   <h3>Languages and Tools:</h3>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <p>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     <a target="_blank" rel="noreferrer" href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
     <a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
     <a target="_blank" rel="noreferrer" href="https://www.php.net"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
