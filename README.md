@@ -50,9 +50,9 @@
 
   <hr style="height: 1px">
   
-  <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
   <a href="https://wakatime.com/@da667081-e299-4c08-85ff-0eb8e72377a3"><img src="https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg" alt="Total time coded since May 8 2023" /></a>
   <a target="_blank" rel="noreferrer" href="https://wakatime.com/@ThisIsMrIsmail"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
+  <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
   <a href="https://github.com/ThisIsMrIsmail/"> <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
   <a href="https://github.com/ThisIsMrIsmail/Newsletter"> <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=newsletter&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
   <a target="_blank" rel="noreferrer" href="https://github.com/ThisIsMrIsmail?tab=repositories"> <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
