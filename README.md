@@ -23,16 +23,10 @@
   
   <h3>Connect with me:</h3>
   <p align="center">
-    <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/ThisIsMrIsmail">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50" height="50">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
+    <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/ThisIsMrIsmail"> <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50" height="50"> </a>
     <a target="_blank" rel="noreferrer" href="https://www.youtube.com/@ThisIsMrIsmail"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
-    <a target="_blank" rel="noreferrer" href="https://discord.gg/ThisIsMrIsmail#0476">
-      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
-    <a target="_blank" rel="noreferrer" href="https://twitter.com/ThisIsMrIsmail" target="blank">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
+    <a target="_blank" rel="noreferrer" href="https://discord.com/users/ThisIsMrIsmail#0476"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"> </a>
+    <a target="_blank" rel="noreferrer" href="https://twitter.com/ThisIsMrIsmail" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50"> </a>
     <a target="_blank" rel="noreferrer" href="https://kaggle.com/ThisIsMrIsmail" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ThisIsMrIsmail" height="40" width="40" /></a>
     <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/isma3il"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isma3il" height="40" width="40" /></a>
   </p>
