@@ -34,7 +34,6 @@
   <hr style="height: 1px">
   
   <h3>Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python">
   <p>
     <a target="_blank" href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50"> </a>
