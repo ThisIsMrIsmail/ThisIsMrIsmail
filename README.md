@@ -36,17 +36,17 @@
   <h3>Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=py" alt="Python">
   <p>
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50">
+    <a target="_blank" href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.php.net"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"> </a>
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"> </a>
+    <a target="_blank" href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50" height="50"> </a>
+    <a target="_blank" href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"> </a>
+    <a target="_blank" href="https://getbootstrap.com"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"> </a>
+    <a target="_blank" href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"> </a>
   </p>
 
   <hr style="height: 1px">
