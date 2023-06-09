@@ -36,17 +36,17 @@
   <h3>Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=py" alt="Python">
   <p>
-    <a target="_blank" rel="noreferrer" href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://www.php.net"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-    <a target="_blank" rel="noreferrer" href="https://getbootstrap.com"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="45"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-    <a target="_blank" rel="noreferrer" href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50">
   </p>
 
   <hr style="height: 1px">
