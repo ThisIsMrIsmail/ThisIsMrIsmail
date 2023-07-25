@@ -5,7 +5,7 @@
 <div align="center">
 
   <h1>Hello Real World, ThisIsMrIsmail</h1>
-  <h3>CS student @Hurghada-FCAI | Web Dev & ML passionate</h3>
+  <h3>FCAI CS student @hurghada | I like ML & Web Dev</h3>
   
   <p> <img src="https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20views&color=394867&style=flat" alt="ThisIsMrIsmail"> </p>
 
