@@ -47,7 +47,7 @@ class ThisIsMrIsmail {
 };
 
 int main () {
-    cout << "Ohh, I forget to say, I HAAAATE VIM. DO NOT use it, VS Code is BETTER";
+    cout << "Ohh, I forget to say.. I HAAAATE VIM. DO NOT use it, VS Code is BETTER";
     return 0;
 }
 ```
