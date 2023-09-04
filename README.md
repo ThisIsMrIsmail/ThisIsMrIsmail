@@ -30,7 +30,7 @@
 
   <h3>FCAI CS student @hurghada | I like ML & Web Dev</h3>
 
-```
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
