@@ -8,7 +8,7 @@
 # Hello Real World, ThisIsMrIsmail
 
   <div align="left">
-    <a href="https://youtube.com/ThisIsMrIsmail" target="_blank">
+    <a href="https://youtube.com/@ThisIsMrIsmail" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">
     </a>
     <a href="https://linkedin.com/in/ThisIsMrIsmail" target="_blank">
