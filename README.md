@@ -4,9 +4,8 @@
 
 <div align="left">
 
-  <h1>Hello Real World, ThisIsMrIsmail</h1>
-
-###
+  
+# Hello Real World, ThisIsMrIsmail
 
   <div align="left">
     <a href="https://youtube.com/ThisIsMrIsmail" target="_blank">
@@ -27,8 +26,6 @@
   </div>
 
 ###
-
-  <h3>FCAI CS student @hurghada | I like ML & Web Dev</h3>
 
 ```cpp
 #include<bits/stdc++.h>
@@ -72,36 +69,18 @@ int main () {
     <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"> </a>
   </p>
+ 
+ ---
 
-  <hr style="height: 1px">
-  
   <a href="https://wakatime.com/@da667081-e299-4c08-85ff-0eb8e72377a3" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg" alt="Total time coded since May 8 2023" /></a>
-  <div style="display: flex;">
-    <div style="margin-right: 22px">
-        <a href="https://wakatime.com/@ThisIsMrIsmail" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
-        <a href="https://github.com/ThisIsMrIsmail/TTT" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-    </div>
-    <div style="width: 45%">
-      <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-      <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-      <a href="https://github.com/ThisIsMrIsmail?tab=repositories" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-    </div>
-  </div>
 
-
-
-  <table >
+  <table>
     <tr>
       <td style="margin: none">
         <a href="https://wakatime.com/@ThisIsMrIsmail" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
+          <p> <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
         <a href="https://github.com/ThisIsMrIsmail/TTT" target="_blank" rel="noreferrer">
-          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+          <p> <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
       </td>
       <td style="margin: none">
         <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
@@ -113,6 +92,5 @@ int main () {
       </td>
     </tr>
   </table>
-  
 
 </div>
