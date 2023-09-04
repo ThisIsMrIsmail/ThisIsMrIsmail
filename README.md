@@ -92,6 +92,27 @@ int main () {
           <p> <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
     </div>
   </div>
+
+
+
+  <table >
+    <tr>
+      <td style="margin: none">
+        <a href="https://wakatime.com/@ThisIsMrIsmail" target="_blank" rel="noreferrer">
+          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
+        <a href="https://github.com/ThisIsMrIsmail/TTT" target="_blank" rel="noreferrer">
+          <p> <img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+      </td>
+      <td style="margin: none">
+        <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
+            <p> <img width="385" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+        <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
+            <p> <img width="385" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+        <a href="https://github.com/ThisIsMrIsmail?tab=repositories" target="_blank" rel="noreferrer">
+            <p> <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+      </td>
+    </tr>
+  </table>
   
 
 </div>
