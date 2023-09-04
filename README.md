@@ -41,7 +41,7 @@ class ThisIsMrIsmail {
     };
     void get_langs_tools() {
       string prog_langs[4] = {"Python", "C++", "JavaScript", "PHP", "PowerShell"};
-      string others[5] = {"NodeJS", "SQL", "Git", "Linux", "HTML", "CSS"};
+      string others[6] = {"NodeJS", "SQL", "Git", "Linux", "HTML", "CSS"};
       string projects[3] = {"Trible T Academy", "Derny Online", "Lung Cancer Detection"};
     }
 };
