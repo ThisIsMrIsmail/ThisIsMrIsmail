@@ -38,16 +38,14 @@ class ThisIsMrIsmail {
     ThisIsMrIsmail() {
         string name = "Ismail Sherif";
         string email = "ismailsherifwork@gmail.com";
-        int age = 20;
         string title = "Computer Science student";
         string volunteer = "Google DSC Lead";
         string typing[2] = {"AVG 92.35WPM", "https://monkeytype.com/profile/ThisIsMrIsmail"};
-
-        vector<string> prog_lang = {"Python", "C++", "JavaScript", "PHP"};
-        vector<string> github_projects = {
-            {"Trible T Academy", "http://tribletacademy.rf.gd/"},
-            {"Derny Online", "https://github.com/ThisIsMrIsmail/Derny-Online"},
-            {"Lung Cancer Detection", "https://github.com/ThisIsMrIsmail/Lung-Cancer-Detection"}
+        string programming_langauges[4] = {"Python", "C++", "JavaScript", "PHP"};
+        string github_projects[3] = {
+            {"Trible T Academy", "tribletacademy.rf.gd"},
+            {"Derny Online", "github.com/ThisIsMrIsmail/Derny-Online"},
+            {"Lung Cancer Detection", "github.com/ThisIsMrIsmail/Lung-Cancer-Detection"}
         };
     };
 };
@@ -57,9 +55,27 @@ int main () {
     return 0;
 }
 ```
+```python
+class ThisIsMrIsmail:
+    def __init__(self):
+        self.name = "Ismail Sherif"
+        self.email = "ismailsherifwork@gmail.com"
+        self.title = "Computer Science student"
+        self.volunteer = "Google DSC Lead"
+        self.typing = ["AVG 92.35WPM", "https://monkeytype.com/profile/ThisIsMrIsmail"]
+        self.prog_languages = ["Python", "C++", "JavaScript", "PHP"]
+        self.github_projects = [
+            "Trible T Academy": "tribletacademy.rf.gd",
+            "Derny Online": "github.com/ThisIsMrIsmail/Derny-Online",
+            "Lung Cancer Detection": "github.com/ThisIsMrIsmail/Lung-Cancer-Detection"
+        ]
 
-  <!-- <hr style="height: 1px"> -->
-  
+if __name__ == "__main__":
+    print("Ohh, I forget to say, I HAAAATE VIM. DO NOT use it, VS Code is BETTER")
+
+```
+
+
   <p>
     <a target="_blank" href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50"> </a>
