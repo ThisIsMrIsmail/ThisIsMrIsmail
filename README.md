@@ -40,14 +40,13 @@ class ThisIsMrIsmail {
         string email = "ismailsherifwork@gmail.com";
         string title = "Computer Science student";
         string volunteer = "Google DSC Lead";
-        string typing[2] = {"AVG 92.35WPM", "https://monkeytype.com/profile/ThisIsMrIsmail"};
-        string programming_langauges[4] = {"Python", "C++", "JavaScript", "PHP"};
-        string github_projects[3] = {
-            {"Trible T Academy", "tribletacademy.rf.gd"},
-            {"Derny Online", "github.com/ThisIsMrIsmail/Derny-Online"},
-            {"Lung Cancer Detection", "github.com/ThisIsMrIsmail/Lung-Cancer-Detection"}
-        };
+        string typing = "AVG 92.35WPM";
     };
+    void get_langs_tools() {
+      string prog_langs[4] = {"Python", "C++", "JavaScript", "PHP", "PowerShell"};
+      string others[5] = {"NodeJS", "SQL", "Git", "Linux", "HTML", "CSS"};
+      string projects[3] = {"Trible T Academy", "Derny Online", "Lung Cancer Detection"};
+    }
 };
 
 int main () {
@@ -55,53 +54,45 @@ int main () {
     return 0;
 }
 ```
-```python
-class ThisIsMrIsmail:
-    def __init__(self):
-        self.name = "Ismail Sherif"
-        self.email = "ismailsherifwork@gmail.com"
-        self.title = "Computer Science student"
-        self.volunteer = "Google DSC Lead"
-        self.typing = ["AVG 92.35WPM", "https://monkeytype.com/profile/ThisIsMrIsmail"]
-        self.prog_languages = ["Python", "C++", "JavaScript", "PHP"]
-        self.github_projects = [
-            "Trible T Academy": "tribletacademy.rf.gd",
-            "Derny Online": "github.com/ThisIsMrIsmail/Derny-Online",
-            "Lung Cancer Detection": "github.com/ThisIsMrIsmail/Lung-Cancer-Detection"
-        ]
-
-if __name__ == "__main__":
-    print("Ohh, I forget to say, I HAAAATE VIM. DO NOT use it, VS Code is BETTER")
-
-```
-
 
   <p>
     <a target="_blank" href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="50" height="50"> </a>
+    <a target="_blank" href="https://flask.palletsprojects.com/"> <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"> </a>
+    <a target="_blank" href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"> </a>
+    <a target="_blank" href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50"> </a>
     <a target="_blank" href="https://www.php.net"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"> </a>
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"> </a>
     <a target="_blank" href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50" height="50"> </a>
     <a target="_blank" href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50"> </a>
+    <a target="_blank" href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"> </a>
+    <a target="_blank" href="https://learn.microsoft.com/en-us/powershell/"> <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="50" height="50"> </a>
     <a target="_blank" href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"> </a>
     <a target="_blank" href="https://getbootstrap.com"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"> </a>
     <a target="_blank" href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"> </a>
-    <a target="_blank" href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"> </a>
   </p>
 
   <hr style="height: 1px">
   
   <a href="https://wakatime.com/@da667081-e299-4c08-85ff-0eb8e72377a3" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg" alt="Total time coded since May 8 2023" /></a>
-  <a href="https://wakatime.com/@ThisIsMrIsmail" target="_blank" rel="noreferrer">
-      <p> <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-      <p> <img width="500" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-      <p> <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail/TTT" target="_blank" rel="noreferrer">
-      <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
-  <a href="https://github.com/ThisIsMrIsmail?tab=repositories" target="_blank" rel="noreferrer">
-      <p> <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+  <div style="display: flex;">
+    <div style="margin-right: 22px">
+        <a href="https://wakatime.com/@ThisIsMrIsmail" target="_blank" rel="noreferrer">
+          <p> <img width="538" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisismrismail&theme=dark&v=2" alt="ThisIsMrIsmail"> </p> </a>    
+    </div>
+    <div style="width: 45%">
+      <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
+          <p> <img width="400" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+      <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
+          <p> <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+      <!-- <a href="https://github.com/ThisIsMrIsmail/TTT" target="_blank" rel="noreferrer">
+          <p> <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=ThisIsMrIsmail&repo=ttt&theme=dark" alt="ThisIsMrIsmail"> </p> </a> -->
+      <a href="https://github.com/ThisIsMrIsmail?tab=repositories" target="_blank" rel="noreferrer">
+          <p> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+    </div>
+  </div>
+  
 
 </div>
