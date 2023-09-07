@@ -84,11 +84,11 @@ int main () {
       </td>
       <td style="margin: none">
         <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-            <p> <img width="385" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+            <p> <img width="387" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
         <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-            <p> <img width="385" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+            <p> <img width="387" src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMrIsmail&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
         <a href="https://github.com/ThisIsMrIsmail?tab=repositories" target="_blank" rel="noreferrer">
-            <p> <img width="385" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
+            <p> <img width="387" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisIsMrIsmail&show_icons=true&locale=en&layout=compact&theme=dark" alt="ThisIsMrIsmail"> </p> </a>
       </td>
     </tr>
   </table>
