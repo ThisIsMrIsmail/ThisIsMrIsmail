@@ -25,7 +25,6 @@
     </a>
   </div>
 
-###
 
 ```cpp
 #include<bits/stdc++.h>
