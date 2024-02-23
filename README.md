@@ -29,9 +29,10 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css)
-[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html) -->
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html) 
 
 #
+-->
 
 </div>
 
