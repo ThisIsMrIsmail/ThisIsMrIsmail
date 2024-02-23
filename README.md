@@ -28,13 +28,16 @@
             height="23" alt="Gmail">
     </a>
     <br><br>
-    <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
-        <p> <img width="387" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark"
-            alt="ThisIsMrIsmail"> </p>
-    </a>
     <a href="https://wakatime.com/@da667081-e299-4c08-85ff-0eb8e72377a3" target="_blank" rel="noreferrer">
         <img src="https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg"
             alt="Total time coded since May 8 2023" height="23" alt="WakaTime">
+    </a>
+    <br>
+    <h4>Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward Program @McKinsey 🚀</h4>
+    <br>
+    <a href="https://github.com/ThisIsMrIsmail/" target="_blank" rel="noreferrer">
+        <p> <img width="387" src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark"
+            alt="ThisIsMrIsmail"> </p>
     </a>
     <br><br>
 </div>
@@ -42,15 +45,13 @@
 ```python
 class ThisIsMrIsmail:
     def __init__(self):
-        """
-        Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC,
-        ex-Forward Program @McKinsey 🚀
-
-        I like Machine Learning;
-        """
         self.name = "Ismail Sherif"
         self.email = "ismailsherifwork@gmail.com"
         self.handle = "thisismrismail"
+        
+        """
+        I like Machine Learning;
+        """
 
     def __skills__(self):
         self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell", "Bash"]
