@@ -57,18 +57,35 @@ class ThisIsMrIsmail:
         """
 
     def __skills__(self):
-        self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell"]
-        self.tools = ["Git", "Linux", "NodeJS", "SQL", "HTML", "CSS"]
-        self.other = ["Leadership", "Talks", "Events", "Fast Typing AVG 95WPM"]
+        self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell", "Bash"]
+        self.tools = ["TensorFlow", "SciKit-Learn", "Pandas", "NumPy", "OpenCV"]
+        self.others = {
+            "Talks": """
+            I have given talks about Machine Learning, Web Development, and more.
+            """,
+            
+            "Events": """
+            I have organized events, workshops, and hackathons. I have also
+            been a speaker in some of them.
+            """,
+            
+            "Leadership": """
+            I have been a leader in many communities, clubs, and organizations.
+            """,
+
+            "Fast Typing": """
+            I can type at average of 95 words per minute.
+            Visit: monkeytype.com/profile/ThisIsMrIsmail
+            """
+        }
 
 
 if __name__ == "__main__":
-
     NewIsmail = ThisIsMrIsmail()
 
     print("""
         Ohh, I forget to say.. I HAAAATE VIM.
-        DO NOT use it, VS Code is BETTER.
+        Don't use it, VS Code is BETTER.
     """)
 ```
 
