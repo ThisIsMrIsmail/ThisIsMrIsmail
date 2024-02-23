@@ -16,6 +16,8 @@
 
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail/)
 
+<div align="left">
+
 ```python
 class ThisIsMrIsmail:
     def __init__(self):
@@ -39,24 +41,23 @@ if __name__ == "__main__":
         Don't use it, VS Code is BETTER.
     """)
 ```
+</div>
 
 
-<p>
-    <a target="_blank" href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="50" height="50"> </a>
-    <a target="_blank" href="https://flask.palletsprojects.com/"> <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.php.net"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"> </a>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"> </a>
-    <a target="_blank" href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50" height="50"> </a>
-    <a target="_blank" href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50"> </a>
-    <a target="_blank" href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"> </a>
-    <a target="_blank" href="https://learn.microsoft.com/en-us/powershell/"> <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"> </a>
-    <a target="_blank" href="https://getbootstrap.com"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"> </a>
-    <a target="_blank" href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"> </a>
-</p>
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
 
 </div>
