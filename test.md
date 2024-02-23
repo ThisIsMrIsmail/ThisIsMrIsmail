@@ -44,7 +44,6 @@ class ThisIsMrIsmail:
         A Convolutional Neural Network Model that detects lung cancer disease
         through CT-scanned images, classifies it into 4 classes.
         """
-        https://github.com
         
         self.project_2 = "Trible T Academy"
         self.details_2 = """
@@ -61,6 +60,7 @@ class ThisIsMrIsmail:
         self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell"]
         self.tools = ["Git", "Linux", "NodeJS", "SQL", "HTML", "CSS"]
         self.other = ["Leadership", "Talks", "Events", "Fast Typing AVG 95WPM"]
+
 
 if __name__ == "__main__":
 
