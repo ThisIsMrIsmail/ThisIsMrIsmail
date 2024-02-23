@@ -29,24 +29,46 @@
 ```python
 class ThisIsMrIsmail:
     def __init__(self):
-        self.name = "Ismail Sherif"
-        self.email = "ismailsherifwork@gmail.com"
-        self.typing = "AVG 95WPM"
-
         """
-        Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward
-        Program @McKinsey 🚀
+        Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC,
+        ex-Forward Program @McKinsey 🚀
         
         I like Machine Learning;
         """
+        self.name = "Ismail Sherif"
+        self.email = "ismailsherifwork@gmail.com"
 
-    def get_langs_tools(self):
-        self.prog_langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell"]
+    def __projects__(self):
+        self.project_1 = "Lung Cancer Detection"
+        self.details_1 = """
+        A Convolutional Neural Network Model that detects lung cancer disease
+        through CT-scanned images, classifies it into 4 classes.
+        """
+        
+        self.project_2 = "Trible T Academy"
+        self.details_2 = """
+        A platform that enables users to register & buy courses online.
+        """
+        
+        self.project_3 = "Derny Online"
+        self.details_3 = """
+        A system that manages all about human resource, employees, payroll,
+        leaves, and more.
+        """
+
+    def __skills__(self):
+        self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell"]
         self.tools = ["Git", "Linux", "NodeJS", "SQL", "HTML", "CSS"]
-        self.projects = ["Trible T Academy", "Derny Online", "Lung Cancer Detection"]
+        self.other = ["Leadership", "Talks", "Events", "Fast Typing AVG 95WPM"]
 
 if __name__ == "__main__":
-    print("Ohh, I forget to say.. I HAAAATE VIM. DO NOT use it, VS Code is BETTER.")
+
+    NewIsmail = ThisIsMrIsmail()
+
+    print("""
+        Ohh, I forget to say.. I HAAAATE VIM.
+        DO NOT use it, VS Code is BETTER.
+    """)
 ```
 
   <p>
