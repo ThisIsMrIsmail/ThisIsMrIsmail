@@ -37,16 +37,7 @@ class ThisIsMrIsmail:
         Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward
         Program @McKinsey 🚀
         
-        As a Google DSC Lead, I organize and facilitate events, workshops, and projects that
-        help students develop their skills and network with other peers and professionals.
-        I am passionate about empowering and inspiring students to learn and apply new
-        technologies, such as AI and Web Development, etc. and to use them for social good
-        and community impact.
-
-        I am also a junior computer science student at the Faculty of Computers & AI at
-        Hurghada, where I am pursuing my interest in artificial intelligence, especially
-        machine learning. I have implemented a few machine learning models, both supervised
-        and unsupervised, classification and regression problems.
+        I like Machine Learning;
         """
 
     def get_langs_tools(self):
