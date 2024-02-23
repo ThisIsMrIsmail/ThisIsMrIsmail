@@ -13,8 +13,6 @@
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&flat)](https://discord.com/users/ThisIsMrIsmail#0476)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&flat)](mailto:ismailsherifwork@gmail.com)
 
-<!-- [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail) -->
-
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
@@ -40,7 +38,7 @@ class ThisIsMrIsmail:
         self.email = "ismailsherifwork@gmail.com"
         self.handle = "thisismrismail"
         self.about = """
-        Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward Program @McKinsey 🚀
+        🧰 Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward Program @McKinsey 🚀
         I like Machine Learning;
         """
 
@@ -51,8 +49,13 @@ class ThisIsMrIsmail:
 
 if __name__ == "__main__":
     NewIsmail = ThisIsMrIsmail()
+    
     print("""
         Ohh, I forget to say.. I HAAAATE VIM.
         Don't use it, VS Code is BETTER.
     """)
 ```
+
+<!--
+[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
+-->
