@@ -18,8 +18,6 @@
 
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
 
-#
-
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
@@ -35,6 +33,8 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html)
+
+#
 
 </div>
 
