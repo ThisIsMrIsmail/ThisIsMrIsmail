@@ -44,6 +44,7 @@ class ThisIsMrIsmail:
         A Convolutional Neural Network Model that detects lung cancer disease
         through CT-scanned images, classifies it into 4 classes.
         """
+        https://github.com
         
         self.project_2 = "Trible T Academy"
         self.details_2 = """
