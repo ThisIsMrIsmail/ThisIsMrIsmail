@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## Hello Real World, ThisIsMrIsmail
+**`Hello Real World, ThisIsMrIsmail`**
 
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&flat)](https://youtube.com/@ThisIsMrIsmail)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&flat)](https://linkedin.com/in/ThisIsMrIsmail)
@@ -12,9 +12,13 @@
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&flat)](https://discord.com/users/ThisIsMrIsmail#0476)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&flat)](mailto:ismailsherifwork@gmail.com)
 
+#
+
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg)](https://wakatime.com/@ThisIsMrIsmail)
 
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
+
+#
 
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
