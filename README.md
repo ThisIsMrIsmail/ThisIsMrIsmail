@@ -44,20 +44,20 @@ if __name__ == "__main__":
 </div>
 
 
-[![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
-[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html)
 
 </div>
