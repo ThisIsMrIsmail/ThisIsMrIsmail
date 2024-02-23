@@ -44,7 +44,7 @@ if __name__ == "__main__":
 ```
 
 
-<div align="center">
+<!-- <div align="center">
 
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
@@ -61,4 +61,4 @@ if __name__ == "__main__":
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html)
-</div>
+</div> -->
