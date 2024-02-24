@@ -56,5 +56,6 @@ if __name__ == "__main__":
     """)
 ```
 
-
+<!--
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
+-->
