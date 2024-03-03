@@ -38,8 +38,8 @@ class ThisIsMrIsmail:
         self.email = "ismailsherifwork@gmail.com"
         self.handle = "thisismrismail"
         self.about = """
-        🧰 Google DSC MENA '24 Lead @Google, ex-AI Intern @ITIDA, 2x ECPC, ex-Forward Program @McKinsey 🚀
-        I like Machine Learning;
+        🧰 ML Engineer Intern @Smsm, Google DSC MENA '24 Lead @Google,
+        🧰 Ex-ITIDA AI Intern, Ex-McKinsey Forward Program, 2x ECPC. 🚀
         """
 
     def __skills__(self):
