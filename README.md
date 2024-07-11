@@ -38,7 +38,7 @@ class ThisIsMrIsmail:
         self.email = "ismailsherifwork@gmail.com"
         self.handle = "thisismrismail"
         self.about = """
-        🧰 ML Engineer Intern @Smsm, Google DSC MENA '24 Lead @Google,
+        🧰 Google DSC MENA '24 Lead @Google, Ex-ML Engineer Intern @Smsm,
         🧰 Ex-ITIDA AI Intern, Ex-McKinsey Forward Program, 2x ECPC. 🚀
         """
 
