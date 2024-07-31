@@ -53,7 +53,7 @@ if __name__ == "__main__":
 ```
 
 <details>
-<summary>GitHub Stats!</summary>
+<summary> <b>GitHub Stats 🚀</b> </summary>
 <br>
 <a href="https://github.com/ThisIsMrIsmail"> <img src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
 </details>
