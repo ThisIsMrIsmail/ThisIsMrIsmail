@@ -55,5 +55,7 @@ if __name__ == "__main__":
 <details>
 <summary>GitHub Stats!</summary>
 <br>
-[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)]
+    hello
 </details>
+
+[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)]
