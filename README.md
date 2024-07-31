@@ -47,11 +47,11 @@ if __name__ == "__main__":
     NewIsmail = ThisIsMrIsmail()
     
     print("""
-        Ohh, I forget to say.. I HAAAATE VIM.
+        Ohh, I forgot to say.. I HAAAATE VIM.
         Don't use it, VS Code is BETTER.
     """)
 ```
 
-<!--
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
+<!--
 -->
