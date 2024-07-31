@@ -55,7 +55,10 @@ if __name__ == "__main__":
 <details>
 <summary>GitHub Stats!</summary>
 <br>
-    hello
+<a href="https://github.com/ThisIsMrIsmail"> <img src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
 </details>
 
-[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)]
+
+<!--
+[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
+-->
