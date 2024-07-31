@@ -44,7 +44,7 @@ class ThisIsMrIsmail:
         self.interests = ["Talks", "Events", "Leadership", "Fast Typing (95wpm)"]
 
 if __name__ == "__main__":
-    NewIsmail = ThisIsMrIsmail()
+    profile = ThisIsMrIsmail()
     
     print("""
         Ohh, I forgot to say.. I HAAAATE VIM.
