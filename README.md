@@ -24,7 +24,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
 
-<img width="4500" height="750" alt="github-cover-image" src="https://github.com/user-attachments/assets/56ae4326-7268-48b1-8eb9-ec12ceec56e5" />
+[![thisismrismail.info](https://github.com/user-attachments/assets/56ae4326-7268-48b1-8eb9-ec12ceec56e5)](https://thisismrismail.info/) 
 
 </div>
 
