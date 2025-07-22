@@ -35,7 +35,7 @@ class ThisIsMrIsmail:
         self.name = "Ismail Sherif"
         self.email = "ismailsherifwork@gmail.com"
         self.handle = "@thisismrismail"
-        self.role = "AI/ML Software Engineer"
+        self.role = "AI/ML/SW Engineer"
 
     def __skills__(self):
         self.typing_speed_wpm = 96
