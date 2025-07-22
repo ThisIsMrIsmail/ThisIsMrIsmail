@@ -30,33 +30,33 @@
 </div>
 
 ```python
-    class ThisIsMrIsmail:
-        def __init__(self):
-            self.name = "Ismail Sherif"
-            self.email = "ismailsherifwork@gmail.com"
-            self.handle = "@thisismrismail"
-            self.role = "AI/ML Software Engineer"
-        
-        def __skills__(self):
-            self.typing_speed_wpm = 96
-            self.langs = ["Python", "C++", "JS", "PowerShell"]
-            self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
-            self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
+class ThisIsMrIsmail:
+    def __init__(self):
+        self.name = "Ismail Sherif"
+        self.email = "ismailsherifwork@gmail.com"
+        self.handle = "@thisismrismail"
+        self.role = "AI/ML Software Engineer"
+    
+    def __skills__(self):
+        self.typing_speed_wpm = 96
+        self.langs = ["Python", "C++", "JS", "PowerShell"]
+        self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
+        self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
 
-        def is_available_for_hire(self, rand_n):
-            # return rand_n % 2 == 0
-            return {
-                "status": "success",
-                "message": "HIRE ME NOWWWWWW",
-                "data": { "name": self.name, "email": self.email },
-                "timestamp": "2025-07-22T06:53:00Z",
-            }, 200
+    def is_available_for_hire(self, rand_n):
+        # return rand_n % 2 == 0
+        return {
+            "status": "success",
+            "message": "HIRE ME NOWWWWWW",
+            "data": { "name": self.name, "email": self.email },
+            "timestamp": "2025-07-22T06:53:00Z",
+        }, 200
 
-    if __name__ == "__main__":        
-        profile = ThisIsMrIsmail()
-        profile.__skills__()
-        profile.is_available_for_hire(random.randint(0, 7))
-        print("can you catch the error in this code?")
+if __name__ == "__main__":
+    profile = ThisIsMrIsmail()
+    profile.__skills__()
+    profile.is_available_for_hire(random.randint(0, 7))
+    print("can you catch the error in this code?")
 ```
 
 <!--
