@@ -24,7 +24,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
 
-[![thisismrismail.info](https://github.com/user-attachments/assets/56ae4326-7268-48b1-8eb9-ec12ceec56e5)](https://thisismrismail.info/) 
+[![thisismrismail.info](https://github.com/user-attachments/assets/0459c0d2-c114-409b-b6b0-3075524e37b8)](https://thisismrismail.info/)
 
 </div>
 
