@@ -29,34 +29,43 @@
 
 </div>
 
-```python
-    class ThisIsMrIsmail:
-        def __init__(self):
-            self.name = "Ismail Sherif"
-            self.email = "ismailsherifwork@gmail.com"
-            self.handle = "@thisismrismail"
-            self.role = "AI/ML Software Engineer"
-        
-        def __skills__(self):
-            self.typing_speed_wpm = 96
-            self.langs = ["Python", "C++", "JS", "PowerShell"]
-            self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
-            self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
+```c
+    // thisismrismail.cpp
 
-        def is_available_for_hire(self, rand_n):
-            # return rand_n % 2 == 0
-            return {
-                "status": "success",
-                "message": "HIRE ME NOWWWWWW",
-                "data": { "name": self.name, "email": self.email },
-                "timestamp": "2025-07-22T06:53:00Z",
-            }, 200
+    #include <iostream>
+    #include <vector>
+    #include <string>
 
-    if __name__ == "__main__":        
-        profile = ThisIsMrIsmail()
-        profile.__skills__()
-        profile.is_available_for_hire(random.randint(0, 7))
-        print("can you catch the error in this code?")
+    struct Education {
+        std::string university = "Hurghada University";
+        std::string major = "Computer Science";
+        float gpa = 3.99; // actually 3.47 XD
+        int graduationYear = 2025;
+    };
+
+    class ThisIsMrIsmail {
+        public:
+            std::string name = "Ismail Sherif";
+            std::string handle = "@thisismrismail";
+            std::string email = "ismailsherifwork@gmail.com";
+            std::string role = "AI/ML Software Engineer";
+            int typingSpeedWPM = 95;
+            bool availableForHire = true;
+
+            std::vector<std::string> _langs = { "Python", "C++", "JS", "PowerShell" };
+            std::vector<std::string> _tools = { "TensorFlow", "NLTK", "SkLearn", "OpenCV" };
+            std::vector<std::string> _stack = { "FastAPI", "Flask", "ReactJS", "PostgreSQL" };
+
+            Education education;
+    };
+
+    int main() {
+        ThisIsMrIsmail me;
+        std::cout << "⚠️ Disclaimer:";
+        std::cout << "I HAAAATE VIM. Please, use VS Code.";
+        std::cout << "Your fingers will thank you.";
+        return 0;
+    }
 ```
 
 <!--
