@@ -29,29 +29,43 @@
 
 </div>
 
-```python
-class ThisIsMrIsmail:
-    def __init__(self):
-        self.name = "Ismail Sherif"
-        self.email = "ismailsherifwork@gmail.com"
-        self.handle = "thisismrismail"
-        self.about = """
-        🧰 ML Engineer Intern @Smsm, Google DSC MENA '24 Lead @Google,
-        🧰 Ex-ITIDA AI Intern, Ex-McKinsey Forward Program, 2x ECPC. 🚀
-        """
+```c
+    // thisismrismail.cpp
 
-    def __skills__(self):
-        self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell", "Bash"]
-        self.tools = ["SciKit-Learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"]
-        self.interests = ["Talks", "Events", "Leadership", "Fast Typing (95wpm)"]
+    #include <iostream>
+    #include <vector>
+    #include <string>
 
-if __name__ == "__main__":
-    NewIsmail = ThisIsMrIsmail()
-    
-    print("""
-        Ohh, I forget to say.. I HAAAATE VIM.
-        Don't use it, VS Code is BETTER.
-    """)
+    struct Education {
+        std::string university = "Hurghada University";
+        std::string major = "Computer Science";
+        float gpa = 3.99; // actually 3.47 XD
+        int graduationYear = 2025;
+    };
+
+    class ThisIsMrIsmail {
+        public:
+            std::string name = "Ismail Sherif";
+            std::string handle = "@thisismrismail";
+            std::string email = "ismailsherifwork@gmail.com";
+            std::string role = "AI/ML Software Engineer";
+            int typingSpeedWPM = 95;
+            bool availableForHire = true;
+
+            std::vector<std::string> _langs = { "Python", "C++", "JS", "PowerShell" };
+            std::vector<std::string> _tools = { "TensorFlow", "NLTK", "SkLearn", "OpenCV" };
+            std::vector<std::string> _stack = { "FastAPI", "Flask", "ReactJS", "PostgreSQL" };
+
+            Education education;
+    };
+
+    int main() {
+        ThisIsMrIsmail me;
+        std::cout << "⚠️ Disclaimer:";
+        std::cout << "I HAAAATE VIM. Please, use VS Code.";
+        std::cout << "Your fingers will thank you.";
+        return 0;
+    }
 ```
 
 <!--
