@@ -38,10 +38,10 @@ class ThisIsMrIsmail:
         self.role = "AI/ML/SW Engineer"
 
     def __skills__(self):
-        self.typing_speed_wpm = 96
         self.langs = ["Python", "C++", "JS", "PowerShell"]
         self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
         self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
+        self.typing_speed_wpm = 96
 
     def is_available_for_hire(self, rand_n):
         # return rand_n % 2 == 0
