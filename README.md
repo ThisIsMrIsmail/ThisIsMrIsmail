@@ -4,8 +4,6 @@
 
 <div align="center">
 
-### Hello Real World, ThisIsMrIsmail
-
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&flat)](https://youtube.com/@ThisIsMrIsmail)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&flat)](https://linkedin.com/in/ThisIsMrIsmail)
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
@@ -31,45 +29,38 @@
 
 </div>
 
-```c
-    // thisismrismail.cpp
+```python
+class ThisIsMrIsmail:
+    def __init__(self):
+        self.name = "Ismail Sherif"
+        self.email = "ismailsherifwork@gmail.com"
+        self.handle = "thisismrismail"
+        self.about = """
+        🧰 ML Engineer Intern @Smsm, Google DSC MENA '24 Lead @Google,
+        🧰 Ex-ITIDA AI Intern, Ex-McKinsey Forward Program, 2x ECPC. 🚀
+        """
 
-    #include <iostream>
-    #include <vector>
-    #include <string>
+    def __skills__(self):
+        self.langs = ["Python", "C++", "JavaScript", "PHP", "PowerShell", "Bash"]
+        self.tools = ["SciKit-Learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"]
+        self.interests = ["Talks", "Events", "Leadership", "Fast Typing (95wpm)"]
 
-    struct Education {
-        std::string university = "Hurghada University";
-        std::string major = "Computer Science";
-        float gpa = 3.99; // actually 3.47 XD
-        int graduationYear = 2025;
-    };
-
-    class ThisIsMrIsmail {
-        public:
-            std::string name = "Ismail Sherif";
-            std::string handle = "@thisismrismail";
-            std::string email = "ismailsherifwork@gmail.com";
-            std::string role = "AI/ML Software Engineer";
-            int typingSpeedWPM = 95;
-            bool availableForHire = true;
-
-            std::vector<std::string> _langs = { "Python", "C++", "JS", "PowerShell" };
-            std::vector<std::string> _tools = { "TensorFlow", "NLTK", "SkLearn", "OpenCV" };
-            std::vector<std::string> _stack = { "FastAPI", "Flask", "ReactJS", "PostgreSQL" };
-
-            Education education;
-    };
-
-    int main() {
-        ThisIsMrIsmail me;
-        std::cout << "⚠️ Disclaimer:";
-        std::cout << "I HAAAATE VIM. Please, use VS Code.";
-        std::cout << "Your fingers will thank you.";
-        return 0;
-    }
-
+if __name__ == "__main__":
+    NewIsmail = ThisIsMrIsmail()
+    
+    print("""
+        Ohh, I forget to say.. I HAAAATE VIM.
+        Don't use it, VS Code is BETTER.
+    """)
 ```
+
+<!--
+<details>
+<summary> <b>GitHub Stats 🚀</b> </summary>
+<br>
+<a href="https://github.com/ThisIsMrIsmail"> <img src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
+</details>
+-->
 
 <!--
 [![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
