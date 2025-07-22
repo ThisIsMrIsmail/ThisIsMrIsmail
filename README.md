@@ -4,12 +4,9 @@
 
 <div align="center">
 
-<!-- [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&flat)](https://youtube.com/@ThisIsMrIsmail) -->
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&flat)](https://linkedin.com/in/ThisIsMrIsmail)
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
-<!-- [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&flat)](https://discord.com/users/ThisIsMrIsmail#0476) -->
-<!-- [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&flat)](mailto:ismailsherifwork@gmail.com) -->
 
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
@@ -27,6 +24,8 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
 
+<img width="4500" height="750" alt="github-cover-image" src="https://github.com/user-attachments/assets/56ae4326-7268-48b1-8eb9-ec12ceec56e5" />
+
 </div>
 
 ```python
@@ -40,8 +39,8 @@ class ThisIsMrIsmail:
     def __skills__(self):
         self.langs = ["Python", "C++", "JS", "PowerShell"]
         self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
-        self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
         self.typing_speed_wpm = 96
+        self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
 
     def is_available_for_hire(self, rand_n):
         # return rand_n % 2 == 0
@@ -57,15 +56,3 @@ if __name__ == "__main__":
     profile.is_available_for_hire(random.randint(0, 7))
     print("can you catch the error in this code?")
 ```
-
-<!--
-<details>
-<summary> <b>GitHub Stats 🚀</b> </summary>
-<br>
-<a href="https://github.com/ThisIsMrIsmail"> <img src="https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark" alt="ThisIsMrIsmail"> </a>
-</details>
--->
-
-<!--
-[![ThisIsMrIsmail](https://github-readme-stats.vercel.app/api?username=ThisIsMrIsmail&show_icons=true&theme=dark)](https://github.com/ThisIsMrIsmail)
--->
