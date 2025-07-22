@@ -8,6 +8,8 @@
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
 
+[![thisismrismail.info](https://github.com/user-attachments/assets/0459c0d2-c114-409b-b6b0-3075524e37b8)](https://thisismrismail.info/)
+
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
@@ -23,8 +25,7 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
-
-[![thisismrismail.info](https://github.com/user-attachments/assets/0459c0d2-c114-409b-b6b0-3075524e37b8)](https://thisismrismail.info/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 
 </div>
 
