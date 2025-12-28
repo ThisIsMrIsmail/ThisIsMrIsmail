@@ -8,11 +8,14 @@
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
 
-<!-- [![thisismrismail.info](https://github.com/user-attachments/assets/0459c0d2-c114-409b-b6b0-3075524e37b8)](https://linkedin.com/in/thisismrismail/) -->
 [![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/thisismrismail/)
 
+[![skills](https://skillicons.dev/icons?i=py,fastapi,flask,tensorflow,pytorch,js,nodejs,git,mysql,postgres,mongodb,linux,docker,aws,nginx&theme=light)](https://thisismrismail.info)
+
+<!-- 
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
@@ -26,7 +29,7 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+-->
 
 </div>
 
