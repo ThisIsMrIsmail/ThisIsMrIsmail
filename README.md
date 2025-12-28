@@ -1,8 +1,4 @@
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-
-<!-- <div align="center"> -->
+<div align="center">
 
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
