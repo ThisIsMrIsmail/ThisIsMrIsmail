@@ -2,34 +2,18 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<div align="center">
+<!-- <div align="center"> -->
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&flat)](https://linkedin.com/in/ThisIsMrIsmail)
 [![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
 
-[![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/thisismrismail/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thisismrismail)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:ismailsherifwork@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=github&theme=light)](mailto:ismailsherifwork@gmail.com)
 
-[![skills](https://skillicons.dev/icons?i=py,fastapi,flask,tensorflow,pytorch,js,nodejs,git,mysql,postgres,mongodb,linux,docker,aws,nginx&theme=light)](https://thisismrismail.info)
+[![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/thisismrismail)
 
-<!-- 
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
-[![CPP](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://w3schools.com/js)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Powershell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
-[![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/) 
--->
+[![skills](https://skillicons.dev/icons?i=py,fastapi,flask,tensorflow,pytorch,js,nodejs,git,mysql,postgres,mongodb,linux,docker,aws,nginx&theme=light)](https://linkedin.com/in/ThisIsMrIsmail)
 
 </div>
 
