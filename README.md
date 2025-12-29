@@ -14,20 +14,20 @@ class ThisIsMrIsmail:
     def __init__(self):
         self.name = "Ismail Sherif"
         self.email = "ismailsherifwork@gmail.com"
-        self.handle = "@thisismrismail"
-        self.role = "AI/ML/SW Engineer"
+        self.handle = "@ThisIsMrIsmail"
+        self.role = "AI/ML Software Engineer"
 
     def __skills__(self):
-        self.langs = ["Python", "C++", "JS", "PowerShell"]
-        self.tools = ["TensorFlow", "NLTK", "SkLearn", "OpenCV"]
+        self.langs = ["Python", "C++", "JS", "PowerShell", "Bash"]
+        self.tools = ["TensorFlow", "PyTorch", "NLTK", "OpenCV", "scikit-learn"]
         self.stack = ["FastAPI", "Flask", "ReactJS", "PostgreSQL"]
-        self.typing_speed_wpm = 96
+        self.typing_speed_wpm = 97
 
     def is_available_for_hire(self, rand_n):
         # return rand_n % 2 == 0
         return {
             "status": "success",
-            "message": "HIRE ME NOWWWWWW XD.",
+            "message": "HIRE ME NOWWWWWW XD!",
             "data": { "name": self.name, "email": self.email },
             "timestamp": "2025-07-22T06:53:00Z",
         }, 200
