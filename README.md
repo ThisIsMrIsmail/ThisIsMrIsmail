@@ -1,7 +1,8 @@
-<div align="center">
 
-[![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat)](https://wakatime.com/@ThisIsMrIsmail)
+[![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=Profile%20Views&color=blueviolet&flat)](https://github.com/ThisIsMrIsmail)
+
+<div align="center">
 
 [![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/thisismrismail)
 
