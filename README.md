@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/thisismrismail)
+[![thisismrismail.info](https://github.com/user-attachments/assets/ff9e6928-9543-4201-ae33-3037a610d466)](https://linkedin.com/in/ThisIsMrIsmail)
 
 [![skills](https://skillicons.dev/icons?i=py,fastapi,flask,tensorflow,pytorch,js,nodejs,git,mysql,postgres,mongodb,linux,docker,aws,nginx&theme=light)](https://linkedin.com/in/ThisIsMrIsmail)
 
@@ -13,8 +13,6 @@
 ```python
 class ThisIsMrIsmail:
     def __init__(self):
-        self.name = "Ismail Sherif"
-        self.email = "ismailsherifwork@gmail.com"
         self.handle = "@ThisIsMrIsmail"
         self.role = "AI/ML Software Engineer"
 
