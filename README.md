@@ -1,6 +1,6 @@
 
-[![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=PROFILE_VIEWS%20_&color=red&flat)](https://github.com/ThisIsMrIsmail)
 [![WakaTime](https://wakatime.com/badge/user/da667081-e299-4c08-85ff-0eb8e72377a3.svg/?style=flat&color=8d38dd)](https://wakatime.com/@ThisIsMrIsmail)
+[![ThisIsMrIsmail](https://komarev.com/ghpvc/?username=ThisIsMrIsmail&label=PROFILE_VIEWS%20_&color=red&flat)](https://github.com/ThisIsMrIsmail)
 
 <div align="center">
 
